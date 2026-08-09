@@ -9,13 +9,15 @@ __pycache__/
 .env
 research/.env
 
-.env
-
 # Jupyter
 .ipynb_checkpoints/
 
 # VS Code
 .vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
 
 # macOS
 .DS_Store
