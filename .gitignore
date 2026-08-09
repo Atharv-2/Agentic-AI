@@ -9,6 +9,8 @@ __pycache__/
 .env
 research/.env
 
+.env
+
 # Jupyter
 .ipynb_checkpoints/
 
